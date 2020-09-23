@@ -1,7 +1,7 @@
 # Week-12-IP
 
 ## Title
-Univariate and Bivariate Analysis in R 
+Advert Analysis in R 
 
 ## Author
 Ted Askoye
