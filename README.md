@@ -12,7 +12,7 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 [Find below the link to this project]()
   
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core-Week-12-IP.git
+1. Clone the repo by running: git clone https://github.com/Askoye/Week-12-IP.git
 
 2. Navigate to the project directory: cd pandas
 
