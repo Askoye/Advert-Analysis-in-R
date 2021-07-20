@@ -1,4 +1,4 @@
-# Advert Analysis in R - Week 12
+# Advert Analysis in R 
 
 ## Author
 Ted Askoye Samuel
