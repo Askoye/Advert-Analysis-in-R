@@ -1,10 +1,7 @@
-# Week-12-IP
-
-## Title
-Advert Analysis in R 
+# Advert Analysis in R - Week-12-IP
 
 ## Author
-Ted Askoye
+Ted Askoye Samuel
 
 ## Project Description
 A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process. The main objective of this study is to identify which individuals are most likely to click on her ads by performing univariate and bivariate analysis on the data and drawing insights from the data.
